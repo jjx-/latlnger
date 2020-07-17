@@ -1,5 +1,7 @@
 # Lat/Lng/er
 
+is a Latitude/Longitude Logger aka GPS logger.
+
 This is a "because I can" project.
 
 If you want something that works look somewhere else.
